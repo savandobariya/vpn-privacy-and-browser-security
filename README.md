@@ -1,1 +1,1 @@
-Identify and Remove Suspicious Browser Extensions
+vpn-privacy-and-browser-security
